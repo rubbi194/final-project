@@ -1,0 +1,8 @@
+-baseline model no paramerts (no preprocessing and augmentation )
+-from bayu
+-dataset from online and rafly 
+-version 6(10028)
+-no testing yet
+-to compare the original one and with my way(the difference between me and others (the way to choose  
+- to proof the accuracy
+- 
