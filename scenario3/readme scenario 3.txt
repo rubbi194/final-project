@@ -1,0 +1,6 @@
+-scenario 3 
+- version 11 in robowflo 
+-Mixed Dataset (Online + Field) 
+-Reflection/Glare Reduction Preprocessing
+- the best model 
+-
